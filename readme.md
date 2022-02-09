@@ -1,1 +1,2 @@
-git training
+git training 
+version 2
